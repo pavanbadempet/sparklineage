@@ -1,6 +1,6 @@
 """
 Main PlanInspector module for analyzing PySpark query execution plans and lineage.
-Authored by Pavan Badempet (https://pavanbadempet.gitlab.io)
+Authored by Pavan Badempet (https://pavanbadempet.github.io)
 """
 
 from typing import Dict, Any, List, Optional
@@ -179,7 +179,7 @@ class PlanInspector:
 
         return {
             "author": "Pavan Badempet",
-            "documentation": "https://pavanbadempet.gitlab.io",
+            "documentation": "https://pavanbadempet.github.io",
             "recommendations": all_recs,
             "metrics": lint_rep.summary_stats,
             "columns": list(self.get_column_lineage().keys()),

@@ -1,7 +1,7 @@
 # ⚡ sparklineage
 
 [![PyPI version](https://img.shields.io/badge/pypi-v0.2.6-blue.svg)](https://pypi.org/project/sparklineage/)
-[![Author](https://img.shields.io/badge/author-Pavan%20Badempet-indigo.svg)](https://pavanbadempet.gitlab.io)
+[![Author](https://img.shields.io/badge/author-Pavan%20Badempet-indigo.svg)](https://pavanbadempet.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-green.svg)](https://pypi.org/project/sparklineage/)
@@ -12,7 +12,7 @@ A lightweight, zero-dependency, developer-first engine for **field-to-field colu
 
 Instead of heavy enterprise collectors that require external Kafka clusters, OpenLineage/Marquez servers, or JVM agent JARs, `sparklineage` runs directly inside your notebook, IDE, or Python process with **zero external infrastructure ($0 compute/server costs)**.
 
-Authored and maintained by **[Pavan Badempet](https://pavanbadempet.gitlab.io)** ([GitLab](https://gitlab.com/pavanbadempet) • [LinkedIn](https://www.linkedin.com/in/pavanbadempet/)).
+Authored and maintained by **[Pavan Badempet](https://pavanbadempet.github.io)** ([GitLab](https://gitlab.com/pavanbadempet) • [LinkedIn](https://www.linkedin.com/in/pavanbadempet/)).
 
 ---
 
@@ -276,6 +276,6 @@ summary = inspector.summarize()
 
 ## 📄 License
 
-MIT License. Copyright (c) 2026 [Pavan Badempet](https://pavanbadempet.gitlab.io).
+MIT License. Copyright (c) 2026 [Pavan Badempet](https://pavanbadempet.github.io).
 
 <!-- Verified: High-throughput Spark plan analysis -->

@@ -38,8 +38,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://pavanbadempet.gitlab.io"
-Documentation = "https://pavanbadempet.gitlab.io"
+Homepage = "https://pavanbadempet.github.io"
+Documentation = "https://pavanbadempet.github.io"
 Repository = "https://gitlab.com/pavanbadempet/sparklineage"
 Issues = "https://gitlab.com/pavanbadempet/sparklineage/-/issues"
 Author = "https://www.linkedin.com/in/pavanbadempet/"

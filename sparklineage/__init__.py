@@ -6,7 +6,7 @@ Lightweight PySpark execution plan analysis, field-to-field column lineage,
 pre-flight compiler lints, and zero-dependency interactive DAG visualization.
 
 Authored and maintained by Pavan Badempet <pavan9b@gmail.com>
-https://pavanbadempet.gitlab.io
+https://pavanbadempet.github.io
 """
 
 __version__ = "0.2.6"
